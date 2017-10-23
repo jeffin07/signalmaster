@@ -3,7 +3,7 @@
     "logLevel": 3,
     "server": {
         "port": 443,
-        "secure": false,
+        "secure": true,
         "key": null,
         "cert": null,
         "password": null
